@@ -1,0 +1,2 @@
+Model,MAE,MSE,RMSE,R2,Best Parameters,Best CV RMSE
+Tuned Gradient Boosting,13539.339858945083,382556393.39761525,19559.048887857898,0.9356129940597472,"{'regressor__learning_rate': 0.08, 'regressor__max_depth': 3, 'regressor__n_estimators': 400}",22797.082882603117
